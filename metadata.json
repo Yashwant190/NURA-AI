@@ -1,0 +1,7 @@
+{
+  "name": "NURA - 3D Agentic Nurse",
+  "description": "A futuristic 3D Agentic AI Nurse interface capable of monitoring vitals, answering medical queries, and scheduling appointments using Google Gemini 2.5 Flash.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
